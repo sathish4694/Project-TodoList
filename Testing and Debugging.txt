@@ -1,0 +1,131 @@
+PS D:\Miraclesoft\Tasks> py -u "d:\Miraclesoft\To-Do List Application\ToDoList_House.py"
+
+To-Do List Application
+1. Add a task
+2. View tasks
+3. Edit a task
+4. Delete a task
+5. Exit
+Enter your choice: 1
+Enter category name: Home Expenses
+Enter task name: House Loan
+Enter due date (YYYY-MM-DD): 2024-09-15
+Enter status: Pending
+Enter remarks: Important
+Task added successfully.
+
+To-Do List Application
+1. Add a task
+2. View tasks
+3. Edit a task
+4. Delete a task
+5. Exit
+Enter your choice: 2
+1. House Loan (Category: Home Expenses, Due: 2024-09-15, Status: Pending, Remarks: Important)
+
+To-Do List Application
+1. Add a task
+2. View tasks
+3. Edit a task
+4. Delete a task
+5. Exit
+Enter your choice: 1
+Enter category name: House Expenses
+Enter task name: Electricity
+Enter due date (YYYY-MM-DD): 2024-09-10
+Enter status: Completed
+Enter remarks: NA
+Task added successfully.
+
+To-Do List Application
+1. Add a task
+2. View tasks
+3. Edit a task
+4. Delete a task
+5. Exit
+Enter your choice: 1  
+Enter category name: House Expenses
+Enter task name: Gas
+Enter due date (YYYY-MM-DD): 2024-09-20
+Enter status: Pending
+Enter remarks: Not Important
+Task added successfully.
+
+To-Do List Application
+1. Add a task
+2. View tasks
+3. Edit a task
+4. Delete a task
+5. Exit
+Enter your choice: 1
+Enter category name: Daily Living
+Enter task name: Groceries
+Enter due date (YYYY-MM-DD): 2024-09-11
+Enter status: Important
+Enter remarks: Important
+Task added successfully.
+
+To-Do List Application
+1. Add a task
+2. View tasks
+3. Edit a task
+4. Delete a task
+5. Exit
+Enter your choice: 3
+1. House Loan (Category: Home Expenses, Due: 2024-09-15, Status: Pending, Remarks: Important)
+2. Electricity (Category: House Expenses, Due: 2024-09-10, Status: Completed, Remarks: NA)
+3. Gas (Category: House Expenses, Due: 2024-09-20, Status: Pending, Remarks: Not Important)
+4. Groceries (Category: Daily Living, Due: 2024-09-11, Status: Important, Remarks: Important)
+Enter the task number to edit: 4
+Enter new category name: House Expenses
+Enter new task name: Groceries
+Enter new due date: 2024-09-11
+Enter new status : Pending
+Enter new remarks: Important
+Task updated successfully.
+
+To-Do List Application
+1. Add a task
+2. View tasks
+3. Edit a task
+4. Delete a task
+5. Exit
+Enter your choice: 2
+1. House Loan (Category: Home Expenses, Due: 2024-09-15, Status: Pending, Remarks: Important)
+2. Electricity (Category: House Expenses, Due: 2024-09-10, Status: Completed, Remarks: NA)
+3. Gas (Category: House Expenses, Due: 2024-09-20, Status: Pending, Remarks: Not Important)
+4. Groceries (Category: House Expenses, Due: 2024-09-11, Status: Pending, Remarks: Important)
+
+To-Do List Application
+1. Add a task
+2. View tasks
+3. Edit a task
+4. Delete a task
+5. Exit
+Enter your choice: 4
+1. House Loan (Category: Home Expenses, Due: 2024-09-15, Status: Pending, Remarks: Important)
+2. Electricity (Category: House Expenses, Due: 2024-09-10, Status: Completed, Remarks: NA)
+3. Gas (Category: House Expenses, Due: 2024-09-20, Status: Pending, Remarks: Not Important)
+4. Groceries (Category: House Expenses, Due: 2024-09-11, Status: Pending, Remarks: Important)
+Enter the task number to delete: 4
+Task deleted successfully.
+
+To-Do List Application
+1. Add a task
+2. View tasks
+3. Edit a task
+4. Delete a task
+5. Exit
+Enter your choice: 2
+1. House Loan (Category: Home Expenses, Due: 2024-09-15, Status: Pending, Remarks: Important)
+2. Electricity (Category: House Expenses, Due: 2024-09-10, Status: Completed, Remarks: NA)
+3. Gas (Category: House Expenses, Due: 2024-09-20, Status: Pending, Remarks: Not Important)
+
+To-Do List Application
+1. Add a task
+2. View tasks
+3. Edit a task
+4. Delete a task
+5. Exit
+Enter your choice: 5
+PS D:\Miraclesoft\Tasks> 

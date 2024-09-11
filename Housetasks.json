@@ -1,0 +1,23 @@
+[
+    {
+        "category_name": "Home Expenses",
+        "task_name": "House Loan",
+        "due_date": "2024-09-15",
+        "status": "Pending",
+        "remarks": "Important"
+    },
+    {
+        "category_name": "House Expenses",
+        "task_name": "Electricity",
+        "due_date": "2024-09-10",
+        "status": "Completed",
+        "remarks": "NA"
+    },
+    {
+        "category_name": "House Expenses",
+        "task_name": "Gas",
+        "due_date": "2024-09-20",
+        "status": "Pending",
+        "remarks": "Not Important"
+    }
+]
